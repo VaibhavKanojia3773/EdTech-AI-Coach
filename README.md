@@ -1,4 +1,4 @@
-# AI-Powered Student Performance Feedback System
+# AI-Powered Student Performance Feedback System 📝
 
 ## Objective
 Build an AI-driven system that:  
@@ -6,14 +6,6 @@ Build an AI-driven system that:
 - Generates personalized, motivating, and insightful feedback using LLM APIs (OpenAI/Gemini/Claude).  
 - Creates a styled, human-readable PDF report.  
 - Demonstrates prompt engineering, data interpretation, and automation skills.
-
-## Tech Stack
-- Python 3.x  
-- Streamlit (UI)  
-- Matplotlib (charts)  
-- Gemini API (LLM)  
-- PDF generation libraries (ReportLab/FPDF)  
-- JSON parsing
 
 ## Features
 - Parses JSON data, extracting subject- and chapter-level accuracy, time, and difficulty.  
@@ -29,7 +21,13 @@ Build an AI-driven system that:
 ![image](https://github.com/user-attachments/assets/9f20b1e1-6356-482c-9a9f-2f2e9a89c1d4)
 ![image](https://github.com/user-attachments/assets/6019d171-ae6f-4581-9b25-73033d3c2478)
 
-
+## Tech Stack
+- Python 3.x  
+- Streamlit (UI)  
+- Matplotlib (charts)  
+- Gemini API (LLM)  
+- PDF generation libraries (ReportLab/FPDF)  
+- JSON parsing
 
 ## Prompt Engineering
 - Uses structured prompts with examples to ensure human-like, personalized, and motivating feedback.  
