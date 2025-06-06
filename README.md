@@ -31,7 +31,7 @@ Build an AI-driven system that:
 
 ## Running the App
 1. Install dependencies: `pip install -r requirements.txt`  
-2. Set API keys for LLM access.  
+2. Set API keys for LLM access in 'generate_feedback.py'  
 3. Run: `streamlit run app.py`  
 4. Upload/select JSON test data and generate feedback.  
 5. View AI feedback, charts, and download PDF report.
